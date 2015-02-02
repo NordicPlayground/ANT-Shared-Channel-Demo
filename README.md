@@ -1,4 +1,4 @@
-# ANT-Shared-Channel-Demo
+# ANT Shared Channel Demo
 The ANT Shared Channel Demo application demonstrates the capabilities of the experimental ANT Auto Shared Channels example from Nordic Semiconductor's nRF51 SDK 7.2+.
 
 ### Requirements
