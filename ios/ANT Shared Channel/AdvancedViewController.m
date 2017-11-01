@@ -196,7 +196,7 @@
     // Only one alert view has a delegate set so...
     if (buttonIndex == 1) // "GitHub" button from "About the application" dialog.
     {
-        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://github.com/NordicSemiconductor/ANT-Shared-Channel-Demo"]];
+        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://github.com/NordicPlayground/ANT-Shared-Channel-Demo"]];
     }
 }
 
